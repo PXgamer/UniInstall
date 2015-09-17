@@ -1,0 +1,10 @@
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\bin\Debug\UniInstall - For WinDistro.exe.config
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\bin\Debug\UniInstall - For WinDistro.exe
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\bin\Debug\UniInstall - For WinDistro.pdb
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall - For WinDistro.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall___For_WinDistro.Form1.resources
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall___For_WinDistro.Properties.Resources.resources
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall - For WinDistro.csproj.GenerateResource.Cache
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall - For WinDistro.exe
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall - For WinDistro.pdb
+c:\users\owen\documents\visual studio 2013\Projects\UniInstall - For WinDistro\UniInstall - For WinDistro\obj\Debug\UniInstall___For_WinDistro.Start.resources
